@@ -1,6 +1,6 @@
 @font-face {
 	font-family: "NaumPenScript";
-	src: url("./font/NanumPenScript-Regular.ttf") format("truetype");
+	src: url("src/font/NanumPenScript-Regular.ttf") format("truetype");
 }
 
 body * {
